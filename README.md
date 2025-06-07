@@ -3,6 +3,8 @@ fka gen-multi-lang-libs (General Multi Language Libraries and Modules)
 
 Developer's (SchponzeePlusPlus) Generic Algorithm Component (DGAC) / Multi Languages Libraries / General
 
+Project Workshop ID: 20211009_GenMultiLangLibs
+
 DGAC is a collection of repositories that are meant to represent my “Swiss-Army Knife” for programming. It will contain generic functions, and procedures that are not specific to any particular project with an application.
 
 Many of these functions and procedures will be mathematical and engineering related, especially in the fields of Electrical, Mechanical, and everything in between.
